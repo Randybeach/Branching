@@ -6,4 +6,6 @@ This will list ways to branch, and notes on branching.
 
 'git checkout branchName' - start working on that branch.
 
-'git branch branchName' - create your branch.
+'git branch branchName' - create your branch. 
+
+`git checkout -b branch` - create a branch _and_ checkout that branch.
